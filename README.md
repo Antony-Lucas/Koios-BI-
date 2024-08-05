@@ -15,3 +15,13 @@ Adm - Structure
 
 Adm - Query builder
 ![Captura de tela 2024-08-05 145044](https://github.com/user-attachments/assets/30759346-bcad-43cc-a7c3-3471b9bd3e1d)
+
+Adm - Workspace
+![Captura de tela 2024-08-05 145052](https://github.com/user-attachments/assets/16d9414c-ffce-4ee1-917d-40ce2ee3d22a)
+
+Adm - MirAI
+![Captura de tela 2024-08-05 145100](https://github.com/user-attachments/assets/37cb3cb4-0b61-489d-97b6-90ba945fad29)
+![Captura de tela 2024-08-05 145114](https://github.com/user-attachments/assets/4363f0c6-4228-45fa-a8ca-0a5b1a0130f6)
+Adm - DB Connection
+![Captura de tela 2024-08-05 145148](https://github.com/user-attachments/assets/bb8c2853-395d-463c-9f80-34c7ecdfb7a7)
+
