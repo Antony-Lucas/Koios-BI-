@@ -10,4 +10,8 @@ Adm - Home
 Adm - Users management
 ![Captura de tela 2024-08-05 145017](https://github.com/user-attachments/assets/2fc834ad-58f0-48de-bd8a-641ea20542af)
 
+Adm - Structure
+![Captura de tela 2024-08-05 145033](https://github.com/user-attachments/assets/58d0c2b8-1663-4175-8f38-55801e09c08f)
 
+Adm - Query builder
+![Captura de tela 2024-08-05 145044](https://github.com/user-attachments/assets/30759346-bcad-43cc-a7c3-3471b9bd3e1d)
