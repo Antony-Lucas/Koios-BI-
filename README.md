@@ -5,8 +5,9 @@ Login UI
 ![Captura de tela 2024-08-05 144953](https://github.com/user-attachments/assets/b4b0ca41-832c-4a4c-9263-64613874008e)
 
 Adm - Home 
-![1](https://github.com/user-attachments/assets/3f5d51f3-bd87-4afb-a7f7-5fed76008803)
+![Captura de tela 2024-08-05 145009](https://github.com/user-attachments/assets/af10bdd9-b19e-4865-9958-df811fd1eb8b)
 
 Adm - Users management
-![Design sem nome](https://github.com/user-attachments/assets/b623bafb-0446-46d6-8117-fa1ea0e8f7c9)
+![Captura de tela 2024-08-05 145017](https://github.com/user-attachments/assets/2fc834ad-58f0-48de-bd8a-641ea20542af)
+
 
