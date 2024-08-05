@@ -18,6 +18,8 @@ Adm - Query builder
 
 Adm - Workspace
 ![Captura de tela 2024-08-05 145052](https://github.com/user-attachments/assets/16d9414c-ffce-4ee1-917d-40ce2ee3d22a)
+![Captura de tela 2024-08-05 153142](https://github.com/user-attachments/assets/402c0eb8-bc8e-4acd-b8fa-e79a23bc4a62)
+
 
 Adm - MirAI
 ![Captura de tela 2024-08-05 145100](https://github.com/user-attachments/assets/37cb3cb4-0b61-489d-97b6-90ba945fad29)
